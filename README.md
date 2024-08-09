@@ -1,10 +1,8 @@
 ```
-Ensure Your Webflow Project is Ready:
+Ensure Your WeWeb Project is Ready:
 
-Make sure your Webflow project is live, and you have the necessary elements (like forms, collections, etc.) that you want to automate.
-Get Webflow API Key:
+Make sure your WeWeb project is live and has the necessary elements (like forms, databases, or dynamic content) that you want to automate.
+Get Access to WeWeb API or Webhooks:
 
-Go to your Webflow Dashboard.
-Select the project you want to connect.
-Navigate to Integrations > API Access and generate an API key.
+WeWeb allows integration via API or webhooks. Make sure you have access to the API documentation or set up webhooks for specific events in your project.
 ```
